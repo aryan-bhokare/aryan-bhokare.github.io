@@ -1,9 +1,8 @@
 import { Header } from "../../../components/Header";
 import Footer from "../../../components/Footer";
 import Link from "next/link";
-import { compareDesc} from "date-fns";
+import { compareDesc } from "date-fns";
 import { allPosts } from "../../../.contentlayer/generated";
-
 
 export default function BlogsPage() {
   const posts = allPosts.sort((firstPost, secondPost) =>
@@ -37,7 +36,9 @@ export default function BlogsPage() {
                     </h3>
                     <div
                       className=" font-SpaceGrotesk text-white py-5 opacity-70 [&>*]:mb-3 [&>*:last-child]:mb-0"
-                      dangerouslySetInnerHTML={{ __html: post.body.html.substring(0, 250) + "..." }}
+                      dangerouslySetInnerHTML={{
+                        __html: post.body.html.substring(0, 250) + "...",
+                      }}
                     />
                   </div>
                 );
