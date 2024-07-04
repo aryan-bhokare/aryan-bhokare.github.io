@@ -11,19 +11,23 @@ repo_url: https://github.com/intelowlproject/docs
 nav:
   - Home: "index.md"
   - IntelOwl:
-      - Introduction: "IntelOwl/docs/introduction.md"
-      - Installation: "IntelOwl/docs/installation.md"
-      - Advanced Configuration: "IntelOwl/docs/advanced_configuration.md"
-      - Usage: "IntelOwl/docs/usage.md"
-      - Advanced Usage: "IntelOwl/docs/advanced_usage.md"
-      - Contribute: "IntelOwl/docs/contribute.md"
-      - API docs: "IntelOwl/docs/api_docs.md"
+      - Introduction: "IntelOwl/introduction.md"
+      - Installation: "IntelOwl/installation.md"
+      - Advanced Configuration: "IntelOwl/advanced_configuration.md"
+      - Usage: "IntelOwl/usage.md"
+      - Advanced Usage: "IntelOwl/advanced_usage.md"
+      - Contribute: "IntelOwl/contribute.md"
+      - API docs: "IntelOwl/api_docs.md"
   - GreedyBear:
-      - index: "GreedyBear/index.md"
+      - Introduction: "GreedyBear/Introduction.md"
+      - Installation: "GreedyBear/Installation.md"
+      - Usage.md: "GreedyBear/Usage.md"
+      - Contribute: "GreedyBear/Contribute.md"
+      - API docs: "GreedyBear/Api-docs.md"
   - PyIntelOwl:
       - index: "pyintelowl/index.md"
   - GoIntelOwl:
-      - index: "go-intelowl/index.md"
+      - index: "GoIntelOwl/index.md"
 plugins:
   - search:
       separator: '[\s\-,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'

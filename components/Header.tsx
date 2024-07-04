@@ -104,7 +104,7 @@ export function Header(props: Headerprops) {
               Features
             </Link>
             <Link
-              href="https://intelowl.readthedocs.io/en/latest"
+              href="site/index.html"
               className="text-white font-SpaceGrotesk font-light text-center hidden md:flex md:justify-center md:flex-row"
             >
               Docs

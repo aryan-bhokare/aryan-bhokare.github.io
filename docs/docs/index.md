@@ -17,22 +17,22 @@ Intel Owl is an Open Source Intelligence, or OSINT solution, to get Threat Intel
 <div class="grid cards" markdown>
 
 - :material-rocket-launch-outline:{ .lg .middle } **Introduction**
-  [:octicons-arrow-right-24:{ .middle } More](IntelOwl/docs/introduction.md)
+  [:octicons-arrow-right-24:{ .middle } More](IntelOwl/introduction.md)
 
 - :fontawesome-regular-compass:{ .lg .middle } **Installation**
-  [:octicons-arrow-right-24:{ .middle } More](IntelOwl/docs/installation.md)
+  [:octicons-arrow-right-24:{ .middle } More](IntelOwl/installation.md)
 
 - :material-rocket-launch-outline:{ .lg .middle } **Contribute**
-  [:octicons-arrow-right-24:{ .middle } More](IntelOwl/docs/contribute.md)
+  [:octicons-arrow-right-24:{ .middle } More](IntelOwl/contribute.md)
 
 - :material-tune-vertical:{ .lg .middle } **Usage**
-  [:octicons-arrow-right-24:{ .middle } More](IntelOwl/docs/usage.md)
+  [:octicons-arrow-right-24:{ .middle } More](IntelOwl/usage.md)
 
 - :fontawesome-regular-compass:{ .lg .middle } **Advanced Usage**
-  [:octicons-arrow-right-24:{ .middle } More](IntelOwl/docs/advanced_usage.md)
+  [:octicons-arrow-right-24:{ .middle } More](IntelOwl/advanced_usage.md)
 
 - :material-tune-vertical:{ .lg .middle } **Advanced Configuration**
-  [:octicons-arrow-right-24:{ .middle } More](IntelOwl/docs/advanced_configuration.md)
+  [:octicons-arrow-right-24:{ .middle } More](IntelOwl/advanced_configuration.md)
 
 </div>
 
